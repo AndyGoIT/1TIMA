@@ -1,0 +1,23 @@
+main () --> Fungsi Utama Program C
+if --> mengecek kondisi
+else --> menjalankan alternatif
+switch --> memilih aksi berdasarkan bbrp pilihan
+for --> melakukan looping
+while --> mengulang program selama kondisi masih benar
+do-while --> mengulang, tetapi blok dijalankan minimal 1 kali
+break --> menghentikan loop/switch
+continue --> melewati iterasi saat ini
+printf() --> Untuk menampilkan output
+scanf() --> Input dari keyboard dan menyimpan ke variabel
+malloc() --> mengalokasikan memori / memesan memori secara dinamis
+free() --> melepaskan memori
+displayMenu() --> menerima parameter tapi tidak mengembalikan nilai
+getChoice() --> function tanpa parameter yang mengembalikan nilai user
+void --> menandakan function tidak mengembalikan nilai
+add() --> function menerima parameter dan mengembalikan hasil perhitungan
+return --> mengembalikan hasil sebuah function kpd program yang memanggil
+fgets() --> membaca input 1 baris
+strlen() --> menhitung jumlah karakter dalam string sebelum \0
+strcpy() --> menyalin isi string ke string lain
+strcmp() --> membandingkan dua string
+strcat() --> menggabungkan/menambahkan satu string ke akhir string lainnya.
